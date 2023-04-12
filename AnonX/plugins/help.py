@@ -59,7 +59,7 @@ async def helper_private(
         language = await get_lang(chat_id)
         _ = get_string(language)
         keyboard = help_pannel(_)
-        await update.reply_sticker("CAACAgEAAxkBAAEIS7VkHf0HRASPPEtc19SO99BsGtEhtAACDQEAAlEpDTkS-UmYu_vQyy8E")
+        await update.reply_sticker("CAACAgUAAxkBAAECrXNkNtFvs-ZGq8gdhUXKctJQOeLUaQACZwkAAndVuVWp6aJVYoCcTi8E")
         await update.reply_photo(
             photo=config.START_IMG_URL,
             caption=_["help_1"].format(config.SUPPORT_HEHE), reply_markup=keyboard)
@@ -89,7 +89,7 @@ async def helper_cb(client, CallbackQuery, _):
     if cb == "hb9":
         if CallbackQuery.from_user.id not in SUDOERS:
             return await CallbackQuery.answer(
-                "Madarchod Randi ke bacche Oye bosdike madarchod bhen ke lode tere gand me lohe ka danda garam karke dalu randwe tujhetho gali ke kutte gand pe chut makkhi Katelode ke ando pe Road roller chale tu kab bathroom me muthne Jaye tho Tera loda ghir Jaye!.", show_alert=True
+                "POISON IS OP BAKI SB TOPI !.", show_alert=True
             )
         else:
             await CallbackQuery.edit_message_text(
