@@ -9,7 +9,7 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     buttons = [
         [
             InlineKeyboardButton(
-                text="☆ 𝐀𝐝𝐝 𝐌𝐞 𝐌𝐨𝐢 𝐋𝐮𝐯 ☆",
+                text="☆ ᴍᴏɪ ᴊᴀᴀɴ ᴀᴅᴅ ᴍᴇ ʏᴏᴜʀ ʜᴀᴠᴇʟɪ ☆",
                 url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
             )
         ],
@@ -30,13 +30,13 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     buttons = [
         [
             InlineKeyboardButton(
-                text="☆ 𝐀𝐝𝐝 𝐌𝐞 𝐌𝐨𝐢 𝐋𝐮𝐯 ☆",
+                text="☆ ᴍᴏɪ ᴊᴀᴀɴ ᴀᴅᴅ ᴍᴇ ʏᴏᴜʀ ʜᴀᴠᴇʟɪ  ☆",
                 url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
             )
         ],
         [
             InlineKeyboardButton(
-                text="📍𝐎𝐰𝐧𝐞𝐫📍", user_id=OWNER
+                text="🚩𝐎𝐰𝐧𝐞𝐫🚩", user_id=OWNER
             ),
             InlineKeyboardButton(
                 text="🎭 𝐇𝐞𝐥𝐩 🎭", callback_data="settings_back_helper"
@@ -44,7 +44,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="🍒𝐆𝐫𝐨𝐮𝐩🍒", url=config.SUPPORT_GROUP
+                text="🫰𝐆𝐫𝐨𝐮𝐩🫰", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
                 text="🏠𝐎𝐟𝐟𝐢𝐜𝐞🏠", url=f"https://t.me/VIP_CREATORS",
@@ -52,8 +52,8 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="🌱ƨσʋяcɛ🌱",
-                url=f"https://github.com/THE-VIP-BOY-OP/VIP-MUSIC",
+                text="ʀᴇᴘᴏ",
+                url=f"https://telegra.ph//file/9a342972a6b78db65123b.jpg",
             )
         ],
      ]
