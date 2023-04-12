@@ -1,5 +1,5 @@
 ━━━━━━━━━━━━━━━━━━━━
-### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
+### 🚩𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🚩
 
 <!--
 **Rajpomane /Rajpomane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,9 +45,9 @@
 
 <h2 align="center">
 
-🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
+🚩「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🚩
 <p align="center">
-<a href="https://telegram.me/I_LOVE_YOU_PAGAL"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐕𝐈𝐏 𝐁𝐎𝐘%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/I_LOVE_YOU_PAGAL"><img src="https://img.shields.io/badge/-🚩Ⓟ︎Ⓞ︎Ⓘ︎Ⓢ︎Ⓞ︎Ⓝ︎%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
