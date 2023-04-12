@@ -52,12 +52,12 @@ async def init():
     await userbot.start()
     await Anon.start()
     try:
-        await Anon.stream_decall("https://telegra.ph/file/de3464aa7d6bfafdd2dc3.mp4")
+        await Anon.stream_decall("https://telegra.ph//file/893e1ee5d039ec2048ac2.mp4")
     except:
         pass
     try:
         await Anon.stream_call(
-            "https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4"
+            "https://telegra.ph//file/893e1ee5d039ec2048ac2.mp4"
         )
     except NoActiveGroupCall:
         LOGGER("AnonX").error(
@@ -67,7 +67,7 @@ async def init():
     except:
         pass
     await Anon.decorators()
-    LOGGER("AnonX").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗩𝗜𝗣 𝗕𝗢𝗬♨️\n╚═════ஜ۩۞۩ஜ════╝")
+    LOGGER("AnonX").info("╔═════ஜ۩۞۩ஜ════╗\n  🚩ᴍᴀᴅᴇ ʙʏ ᴘᴏɪsᴏɴ ᴀɴᴅ ʙʀᴀɴᴅᴇᴅ ᴋɪɴɢ🚩\n╚═════ஜ۩۞۩ஜ════╝")
     await idle()
 
 
