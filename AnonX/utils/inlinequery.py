@@ -8,25 +8,25 @@ answer.extend(
         InlineQueryResultArticle(
             title="🙄 ᴩᴀᴜsᴇ 🙄",
             description=f"ᴩᴀᴜsᴇ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
-            thumb_url="https://te.legra.ph/file/00342ce30cf2512ddc755.jpg",
+            thumb_url="https://telegra.ph//file/9a342972a6b78db65123b.jpg",
             input_message_content=InputTextMessageContent("/pause"),
         ),
         InlineQueryResultArticle(
             title="😋 ʀᴇsᴜᴍᴇ 😋",
             description=f"ʀᴇsᴜᴍᴇ ᴛʜᴇ ᴩᴀᴜsᴇᴅ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
-            thumb_url="https://te.legra.ph/file/00342ce30cf2512ddc755.jpg",
+            thumb_url="https://telegra.ph//file/9a342972a6b78db65123b.jpg",
             input_message_content=InputTextMessageContent("/resume"),
         ),
         InlineQueryResultArticle(
             title="🙂 sᴋɪᴩ 🙂",
             description=f"sᴋɪᴩ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ ᴀɴᴅ ᴍᴏᴠᴇs ᴛᴏ ᴛʜᴇ ɴᴇxᴛ sᴛʀᴇᴀᴍ.",
-            thumb_url="https://te.legra.ph/file/00342ce30cf2512ddc755.jpg",
+            thumb_url="https://telegra.ph//file/9a342972a6b78db65123b.jpg",
             input_message_content=InputTextMessageContent("/skip"),
         ),
         InlineQueryResultArticle(
             title="🥺 ᴇɴᴅ 🥺",
             description="ᴇɴᴅ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
-            thumb_url="https://te.legra.ph/file/00342ce30cf2512ddc755.jpg",
+            thumb_url="https://telegra.ph//file/9a342972a6b78db65123b.jpg",
             input_message_content=InputTextMessageContent("/end"),
         ),
         InlineQueryResultArticle(
