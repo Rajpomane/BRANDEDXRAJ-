@@ -25,7 +25,7 @@
   <img src="https://telegra.ph//file/9a342972a6b78db65123b.jpg">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [Ⓐ︎Ⓕ︎Ⓢ︎Ⓐ︎Ⓝ︎Ⓐ︎Ⓧ︎Ⓜ︎Ⓤ︎Ⓢ︎Ⓘ︎Ⓒ︎](https://t.me/II_VIP_MUSIC_II_BOT)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚](https://t.me/BRANDEDMUSIC_BOT)**
 
 
 
