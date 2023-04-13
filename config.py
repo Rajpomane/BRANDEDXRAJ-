@@ -159,41 +159,41 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "https://github.com/Rajpomane/BRANDEDXRAJ-")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph//file/9a342972a6b78db65123b.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://github.com/Rajpomane/BRANDEDXRAJ-",
+    "https://telegra.ph//file/9a342972a6b78db65123b.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://github.com/Rajpomane/BRANDEDXRAJ-",
+    "https://telegra.ph//file/9a342972a6b78db65123b.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://github.com/Rajpomane/BRANDEDXRAJ-",
+    "https://telegra.ph//file/9a342972a6b78db65123b.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://github.com/Rajpomane/BRANDEDXRAJ-",
+    "https://telegra.ph//file/9a342972a6b78db65123b.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
     "TELEGRAM_AUDIO_URL",
-    "https://github.com/Rajpomane/BRANDEDXRAJ-",
+    "https://telegra.ph//file/9a342972a6b78db65123b.jpg",
 )
 
 TELEGRAM_VIDEO_URL = getenv(
     "TELEGRAM_VIDEO_URL",
-    "https://github.com/Rajpomane/BRANDEDXRAJ-",
+    "https://telegra.ph//file/9a342972a6b78db65123b.jpg",
 )
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "https://github.com/Rajpomane/BRANDEDXRAJ-",
+    "https://telegra.ph//file/9a342972a6b78db65123b.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
@@ -203,7 +203,7 @@ SOUNCLOUD_IMG_URL = getenv(
 
 YOUTUBE_IMG_URL = getenv(
     "YOUTUBE_IMG_URL",
-    "https://te.legra.ph/file/ecdeac045f4045c198bd6.jpg",
+    "https://telegra.ph//file/9a342972a6b78db65123b.jpg",
 )
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
