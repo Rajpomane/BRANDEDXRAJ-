@@ -206,7 +206,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
     elif 98 <= anon < 99:
         bar = " 🥀ᴘᴏɪsᴏɴ🥀 "
     else:
-        bar = " 🍷ѕσ ¢ιтє ѕσηg🍷 "
+        bar = " 🚩ᴊᴀɪ sʜʀᴇᴇ ʀᴀᴍ🚩 "
     buttons = [
         [
             InlineKeyboardButton(
@@ -445,7 +445,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
     elif 98 <= anon < 99:
         bar = " 🥀ᴘᴏɪsᴏɴ🥀 "
     else:
-        bar = " 🍷ℓσνєℓу ѕσηg🍷 "
+        bar = " 🚩ᴊᴀɪ sʜʀᴇᴇ ʀᴀᴍ🚩 "
 
     buttons = [
         [
