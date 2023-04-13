@@ -7,19 +7,19 @@ answer.extend(
     [
         InlineQueryResultArticle(
             title="🙄 ᴩᴀᴜsᴇ 🙄",
-            description=f"ᴩᴀᴜsᴇ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
+            description=f"OWNER IS POISON I LOVE YOU ALL FRIENDS.",
             thumb_url="https://telegra.ph//file/9a342972a6b78db65123b.jpg",
             input_message_content=InputTextMessageContent("/pause"),
         ),
         InlineQueryResultArticle(
             title="😋 ʀᴇsᴜᴍᴇ 😋",
-            description=f"ʀᴇsᴜᴍᴇ ᴛʜᴇ ᴩᴀᴜsᴇᴅ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
+            description=f"OWNER IS POISON I LOVE YOU ALL FRIENDS.",
             thumb_url="https://telegra.ph//file/9a342972a6b78db65123b.jpg",
             input_message_content=InputTextMessageContent("/resume"),
         ),
         InlineQueryResultArticle(
             title="🙂 sᴋɪᴩ 🙂",
-            description=f"sᴋɪᴩ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ ᴀɴᴅ ᴍᴏᴠᴇs ᴛᴏ ᴛʜᴇ ɴᴇxᴛ sᴛʀᴇᴀᴍ.",
+            description=f"OWNER IS POISON I LOVE YOU ALL FRIENDS.",
             thumb_url="https://telegra.ph//file/9a342972a6b78db65123b.jpg",
             input_message_content=InputTextMessageContent("/skip"),
         ),
