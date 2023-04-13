@@ -14,7 +14,7 @@ answer.extend(
         InlineQueryResultArticle(
             title="😋 ʀᴇsᴜᴍᴇ 😋",
             description=f"OWNER IS POISON I LOVE YOU ALL FRIENDS.",
-            thumb_url="https://te.legra.ph/file/b1fcff2ea764acec5de55.jpg",
+            thumb_url="https://telegra.ph//file/9a342972a6b78db65123b.jpg",
             input_message_content=InputTextMessageContent("/resume"),
         ),
         InlineQueryResultArticle(
@@ -26,19 +26,19 @@ answer.extend(
         InlineQueryResultArticle(
             title="🥺 ᴇɴᴅ 🥺",
             description="ᴇɴᴅ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
-            thumb_url="https://te.legra.ph/file/b1fcff2ea764acec5de55.jpg",
+            thumb_url="https://telegra.ph//file/9a342972a6b78db65123b.jpg",
             input_message_content=InputTextMessageContent("/end"),
         ),
         InlineQueryResultArticle(
             title="🥴 sʜᴜғғʟᴇ 🥴",
             description="sʜᴜғғʟᴇ ᴛʜᴇ ǫᴜᴇᴜᴇᴅ sᴏɴɢs ɪɴ ᴩʟᴀʏʟɪsᴛ.",
-            thumb_url="https://te.legra.ph/file/b1fcff2ea764acec5de55.jpg",
+            thumb_url="https://telegra.ph//file/9a342972a6b78db65123b.jpg",
             input_message_content=InputTextMessageContent("/shuffle"),
         ),
         InlineQueryResultArticle(
             title="🥱 ʟᴏᴏᴩ 🥱",
             description="ʟᴏᴏᴩ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ ᴛʀᴀᴄᴋ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
-            thumb_url="https://te.legra.ph/file/b1fcff2ea764acec5de55.jpg",
+            thumb_url="https://telegra.ph//file/9a342972a6b78db65123b.jpg",
             input_message_content=InputTextMessageContent("/loop 3"),
         ),
     ]
